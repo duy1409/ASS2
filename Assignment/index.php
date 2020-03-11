@@ -50,7 +50,7 @@
             <img src="images/naruto.jpg" style="width:50%">
           </div>
           <div class="mySlides w3-display-container w3-center">
-            <img src="images/captain.jpg" style="width:50%">
+            <img src="images/Captain.jpg" style="width:50%">
           </div>
           <div class="mySlides w3-display-container w3-center">  
             <img src="images/thor.jpg" style="width:60%">
@@ -69,22 +69,17 @@
         <div class="w3-col m6 w3-padding-large w3-hide-small">
         <img src="images/Minato.jpg" class="w3-round w3-image w3-opacity-min" alt="minato" width="302" height="218">
         </div>
-        <h4 style="color: black"><b>WHAT IS FIGURE?</b></h4>
-        <p>Figure is a model, a statue, any 3D product that reproduces a character in a movie, story, game, or drawing.</p>
-        <p>Usually figure bears the shape of a human, sometimes a beast, a god, a goblin, a monster or even an alien creature ... any character thought of by the artist, sculpted into 3D called the figure.</p>
+        <h4 style="color: black"><b>WHAT IS TOY?</b></h4>
+        <p>A toy is an item that is used in play, especially one designed for such use. Playing with toys can be an enjoyable means of training young children for life in society. Different materials like wood, clay, paper, and plastic are used to make toys. Many items are designed to serve as toys, but goods produced for other purposes can also be used. For instance, a small child may fold an ordinary piece of paper into an airplane shape and "fly it". Newer forms of toys include interactive digital entertainment. Some toys are produced primarily as collectors' items and are intended for display only.</p>
+       
         <br>
         <br>
         <br>
         <br>
         <br>
         <br>
-        <div class="w3-col m6 w3-padding-large w3-hide-small">
-        <img src="images/kiritoasuna.jpg" class="w3-round w3-image w3-opacity-min" alt="coffee beans" width="302" height="218">
-        </div>
-        <h4 style="color: black"><b>WHAT IS JAPAN FIGURE?</b></h4>
-        <p>These are figures created by Japanese artists, illustrating, creating and finishing in Japan.</p>
-        <p>Because of being born in Japan, it is obvious that the Japan figure has Japanese culture, from Anime, Manga, Game, Light novel, J-pop to Virtual Singer and so on.</p>
-        <p>With Japanese technology and a strictly supervised production process, the figure products are very well-executed, sharp details, vivid colors, precise expressions like the original character have satisfied many fans. fans all over the world.</p>
+        
+       
         <br>    
     </div>
   </div> 
