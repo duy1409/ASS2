@@ -62,7 +62,7 @@
         
 
   <!-- ABOUT -->
-  <div class="w3-gray" id="about">
+  <div class="w3-white" id="about">
     <div class="w3-container w3-content w3-padding-64" style="max-width:800px" id="about">
       <h2 class="w3-wide w3-center" style="color: black">About</h2>
       <br>
@@ -70,7 +70,8 @@
         <img src="images/Minato.jpg" class="w3-round w3-image w3-opacity-min" alt="minato" width="302" height="218">
         </div>
         <h4 style="color: black"><b>WHAT IS TOY?</b></h4>
-        <p>A toy is an item that is used in play, especially one designed for such use. Playing with toys can be an enjoyable means of training young children for life in society. Different materials like wood, clay, paper, and plastic are used to make toys. Many items are designed to serve as toys, but goods produced for other purposes can also be used. For instance, a small child may fold an ordinary piece of paper into an airplane shape and "fly it". Newer forms of toys include interactive digital entertainment. Some toys are produced primarily as collectors' items and are intended for display only.</p>
+        <p>A toy is an item that is used in play, especially one designed for such use. Playing with toys can be an enjoyable means of training young children for life in society. Different materials like wood, clay, paper, and plastic are used to make toys.</p> 
+        <p>Many items are designed to serve as toys, but goods produced for other purposes can also be used. For instance, a small child may fold an ordinary piece of paper into an airplane shape and "fly it". Newer forms of toys include interactive digital entertainment. Some toys are produced primarily as collectors' items and are intended for display only.</p>
        
         <br>
         <br>
@@ -91,7 +92,7 @@
                     <div class="w3-row w3-padding-32">
                     <div class="w3-col m6 w3-large w3-margin-bottom">
                         <i class="fa fa-map-marker" style="width:30px"></i>Ha Noi, Vietnam<br>
-                        <i class="fa fa-phone" style="width:30px"></i> Phone: +84751561621<br>
+                        <i class="fa fa-phone" style="width:30px"></i> Phone: +999888999<br>
                         <i class="fa fa-envelope" style="width:30px"> </i> Email: atnshop@gmail.com<br>
                     </div>
                     <div class="w3-col m6">
