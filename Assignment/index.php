@@ -50,10 +50,10 @@
             <img src="images/naruto.jpg" style="width:50%">
           </div>
           <div class="mySlides w3-display-container w3-center">
-            <img src="images/pikachu.jpg" style="width:50%">
+            <img src="images/captain.jpg" style="width:50%">
           </div>
           <div class="mySlides w3-display-container w3-center">  
-            <img src="images/onepiece.jpg" style="width:60%">
+            <img src="images/thor.jpg" style="width:60%">
           </div>
         </div>
       </div>
